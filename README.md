@@ -6,7 +6,7 @@ The project is done as a part of tcs humain competition.
  
  This notebook contains the implementation of the models and proposed methods.
  
- All experiments were will be run on Google Colab.
+ All experiments were run on Google Colab.
  
  This project is still in its infancy..
  
